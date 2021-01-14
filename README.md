@@ -1,4 +1,5 @@
 # wiki_preprocessing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zndT4hmvQAdRCE8iYC5bRR0TSEnvcxA7?usp=sharing)
 위키백과 데이터 전처리
 
 # Detail
