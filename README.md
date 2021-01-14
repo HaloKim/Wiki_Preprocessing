@@ -11,9 +11,11 @@ Colab에서 데이터를 다루기 때문에 리눅스 명령어를 통해 텍�
 허킹페이스 트랜스포머의 토크나이저를 활용하여 토큰 모델을 생성합니다.
 
 ---
-This repo is Colab notebook for korean NLP preprocessing with WIKI dump files.
+This repo is Colab notebook for Korean NLP preprocessing with WIKI dump files. 
 
 I used an WikiExtractor that open source.
+
+And You can make a Token model for Hugging Face model
 
 #Reference
 https://github.com/attardi/wikiextractor
